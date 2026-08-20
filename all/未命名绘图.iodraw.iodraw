@@ -96,7 +96,7 @@
         <mxCell id="zmdTCMglL3MCGhF36VIJ-33" value="01劳保用品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zmdTCMglL3MCGhF36VIJ-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zmdTCMglL3MCGhF36VIJ-35" value="02燃料动力类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
