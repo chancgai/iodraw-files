@@ -7,6 +7,9 @@
         <mxCell id="zmdTCMglL3MCGhF36VIJ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zmdTCMglL3MCGhF36VIJ-1" target="zmdTCMglL3MCGhF36VIJ-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="zmdTCMglL3MCGhF36VIJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="zmdTCMglL3MCGhF36VIJ-1" target="zmdTCMglL3MCGhF36VIJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zmdTCMglL3MCGhF36VIJ-1" value="C成品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="90" width="80" height="60" as="geometry" />
         </mxCell>
