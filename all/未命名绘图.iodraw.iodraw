@@ -51,7 +51,7 @@
         <mxCell id="zmdTCMglL3MCGhF36VIJ-17" value="01金属类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zmdTCMglL3MCGhF36VIJ-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zmdTCMglL3MCGhF36VIJ-19" value="化工类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zmdTCMglL3MCGhF36VIJ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.033;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zmdTCMglL3MCGhF36VIJ-16" target="zmdTCMglL3MCGhF36VIJ-19">
@@ -67,10 +67,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zmdTCMglL3MCGhF36VIJ-21" value="S备件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zmdTCMglL3MCGhF36VIJ-22" value="01工具类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zmdTCMglL3MCGhF36VIJ-24" value="02机械类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="680" width="120" height="60" as="geometry" />
