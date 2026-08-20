@@ -67,16 +67,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zmdTCMglL3MCGhF36VIJ-21" value="S备件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zmdTCMglL3MCGhF36VIJ-22" value="01工具类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zmdTCMglL3MCGhF36VIJ-24" value="02机械类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zmdTCMglL3MCGhF36VIJ-27" value="03杂项类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="910" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
