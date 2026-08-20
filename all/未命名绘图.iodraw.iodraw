@@ -14,10 +14,10 @@
           <mxGeometry x="60" y="90" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zmdTCMglL3MCGhF36VIJ-3" value="01立体铁芯" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zmdTCMglL3MCGhF36VIJ-6" value="02平面铁芯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
