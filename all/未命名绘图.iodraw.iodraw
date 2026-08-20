@@ -22,7 +22,7 @@
           <mxGeometry x="240" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zmdTCMglL3MCGhF36VIJ-6" value="02平面铁芯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zmdTCMglL3MCGhF36VIJ-9" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="424" y="30" width="120" height="60" as="geometry" />
@@ -30,7 +30,7 @@
         <mxCell id="zmdTCMglL3MCGhF36VIJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zmdTCMglL3MCGhF36VIJ-11" target="zmdTCMglL3MCGhF36VIJ-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zmdTCMglL3MCGhF36VIJ-11" value="半成品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zmdTCMglL3MCGhF36VIJ-11" value="B半成品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zmdTCMglL3MCGhF36VIJ-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
